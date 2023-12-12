@@ -1,4 +1,4 @@
-ehInstructions:
+Instructions:
 
 1. Find your name below
 2. Next to your name, on the same line, type the following statement: 
